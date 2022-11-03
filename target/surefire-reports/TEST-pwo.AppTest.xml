@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="pwo.AppTest" time="0.029" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\htek1\Videos\pwo\lab07\target\test-classes;C:\Users\htek1\Videos\pwo\lab07\target\classes;C:\Users\htek1\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\htek1\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\htek1\.m2\repository\org\apache\pdfbox\pdfbox\2.0.1\pdfbox-2.0.1.jar;C:\Users\htek1\.m2\repository\org\apache\pdfbox\fontbox\2.0.1\fontbox-2.0.1.jar;C:\Users\htek1\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;"/>
+    <property name="java.vm.vendor" value="Temurin"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Europe/Belgrade"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\htek1\AppData\Local\Temp\surefire6192265042296734410\surefirebooter1915987387661797320.jar C:\Users\htek1\AppData\Local\Temp\surefire6192265042296734410 2022-11-03T12-53-21_851-jvmRun1 surefire4585935327843171117tmp surefire_07916842977641486429tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\htek1\Videos\pwo\lab07\target\test-classes;C:\Users\htek1\Videos\pwo\lab07\target\classes;C:\Users\htek1\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\htek1\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\htek1\.m2\repository\org\apache\pdfbox\pdfbox\2.0.1\pdfbox-2.0.1.jar;C:\Users\htek1\.m2\repository\org\apache\pdfbox\fontbox\2.0.1\fontbox-2.0.1.jar;C:\Users\htek1\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\htek1"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre"/>
+    <property name="basedir" value="C:\Users\htek1\Videos\pwo\lab07"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\htek1\AppData\Local\Temp\surefire6192265042296734410\surefirebooter1915987387661797320.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\resources.jar;C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\rt.jar;C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\sunrsasign.jar;C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\jsse.jar;C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\jce.jar;C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\charsets.jar;C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\jfr.jar;C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_302-b08"/>
+    <property name="user.name" value="htek1"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\htek1\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\htek1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_302"/>
+    <property name="user.dir" value="C:\Users\htek1\Videos\pwo\lab07"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WinAVR-20100110\bin;C:\WinAVR-20100110\utils\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Users\htek1\AppData\Local\Programs\Python\Python310;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\Maven\apache-maven-3.8.6\bin;C:\Users\htek1\AppData\Local\Microsoft\WindowsApps;C:\Users\htek1\.dotnet\tools;C:\Users\htek1\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\htek1\AppData\Roaming\cabal\bin;C:\tools\ghc-9.0.1\bin;C:\tools\msys64;C:\Users\htek1\AppData\Roaming\npm;C:\Users\htek1\.dotnet\tools;C:\Program Files\Azure Data Studio\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Temurin"/>
+    <property name="java.vm.version" value="25.302-b08"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Android\jdk\jdk-8.0.302.8-hotspot\jdk8u302-b08\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="pwo.AppTest" time="0.001"/>
+</testsuite>
